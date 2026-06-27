@@ -14,7 +14,6 @@ node_modules/
 # Backtest output artifacts
 results/
 
-.env
 agent/.env
 
 .claude/*
@@ -90,3 +89,4 @@ AGENTS.md
 # Alpha Zoo wiki artifacts (generated, not source)
 wiki/alpha-library/manifest.json
 wiki/alpha-library/content/
+config.bat
