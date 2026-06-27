@@ -14,13 +14,11 @@ node_modules/
 # Backtest output artifacts
 results/
 
-.env
 agent/.env
 
 .claude/*
 !.claude/hooks.json
 CLAUDE.md
-.vscode/
 learn-claude-code-main/
 agent/sessions/
 agent/runs/
@@ -90,3 +88,7 @@ AGENTS.md
 # Alpha Zoo wiki artifacts (generated, not source)
 wiki/alpha-library/manifest.json
 wiki/alpha-library/content/
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
